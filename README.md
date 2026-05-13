@@ -25,6 +25,68 @@ Namma-Pustaka is a **"Smart Library Assistant"** for rural schools. It turns a s
 
 ---
 
+## Screenshots
+
+### Book Catalog
+The home screen shows all books in a 2-column grid with cover images, availability badges, category chips for filtering, and a search bar.
+
+<img src="screenshots/01_book_catalog.png" width="270" alt="Book Catalog"/>
+
+---
+
+### Search
+Real-time search by title or author. Selecting a category chip filters the grid instantly.
+
+<img src="screenshots/09_search.png" width="270" alt="Search and Filter"/>
+
+---
+
+### Book Detail
+Shows cover, author, category, page count, QR code, star rating, and a Gemini-generated Kannada summary. Buttons to issue, scan QR, or write a review.
+
+<img src="screenshots/02_book_detail.png" width="270" alt="Book Detail"/>
+
+---
+
+### Write a Review
+Students can select their name from a dropdown, give a star rating, and write a one-line review.
+
+<img src="screenshots/03_write_review.png" width="270" alt="Write Review"/>
+
+---
+
+### QR Code Scanner
+CameraX-powered scanner with a white guide frame. Point the camera at any book spine label to look up the book instantly.
+
+<img src="screenshots/04_qr_scan.png" width="270" alt="QR Scanner"/>
+
+---
+
+### Transactions
+Select a student to view or create borrow entries. Chips to filter by All / Active / Overdue.
+
+<img src="screenshots/05_transactions.png" width="270" alt="Transactions"/>
+
+---
+
+### Students List
+All registered students with their roll number, class, and reading stats. Tap + to add a new student.
+
+<p>
+  <img src="screenshots/06_students_list.png" width="270" alt="Students List"/>
+  &nbsp;&nbsp;
+  <img src="screenshots/08_students_updated.png" width="270" alt="Students Updated"/>
+</p>
+
+---
+
+### Add New Student
+Dialog to register a student with name, roll number, class, and section.
+
+<img src="screenshots/07_add_student.png" width="270" alt="Add Student"/>
+
+---
+
 ## Features
 
 ### Book Management
@@ -222,68 +284,6 @@ Replace this with your own key from [Google AI Studio](https://aistudio.google.c
   `useLegacyPackaging = true` in `build.gradle.kts` minimises the warning.
 - **Book covers** require internet. Offline, the placeholder icon is shown instead.
 - **Gemini summaries** require internet. The summary section stays empty offline.
-
----
-
-## Screenshots
-
-### Book Catalog
-The home screen shows all books in a 2-column grid with cover images, availability badges, category chips for filtering, and a search bar.
-
-<img src="screenshots/01_book_catalog.png" width="270" alt="Book Catalog"/>
-
----
-
-### Search
-Real-time search by title or author. Selecting a category chip filters the grid instantly.
-
-<img src="screenshots/09_search.png" width="270" alt="Search and Filter"/>
-
----
-
-### Book Detail
-Shows cover, author, category, page count, QR code, star rating, and a Gemini-generated Kannada summary. Buttons to issue, scan QR, or write a review.
-
-<img src="screenshots/02_book_detail.png" width="270" alt="Book Detail"/>
-
----
-
-### Write a Review
-Students can select their name from a dropdown, give a star rating, and write a one-line review.
-
-<img src="screenshots/03_write_review.png" width="270" alt="Write Review"/>
-
----
-
-### QR Code Scanner
-CameraX-powered scanner with a white guide frame. Point the camera at any book spine label to look up the book instantly.
-
-<img src="screenshots/04_qr_scan.png" width="270" alt="QR Scanner"/>
-
----
-
-### Transactions
-Select a student to view or create borrow entries. Chips to filter by All / Active / Overdue.
-
-<img src="screenshots/05_transactions.png" width="270" alt="Transactions"/>
-
----
-
-### Students List
-All registered students with their roll number, class, and reading stats. Tap + to add a new student.
-
-<p>
-  <img src="screenshots/06_students_list.png" width="270" alt="Students List"/>
-  &nbsp;&nbsp;
-  <img src="screenshots/08_students_updated.png" width="270" alt="Students Updated"/>
-</p>
-
----
-
-### Add New Student
-Dialog to register a student with name, roll number, class, and section.
-
-<img src="screenshots/07_add_student.png" width="270" alt="Add Student"/>
 
 ---
 
