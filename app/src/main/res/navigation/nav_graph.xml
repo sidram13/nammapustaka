@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:id="@+id/nav_graph"
+    app:startDestination="@id/catalogFragment">
+
+    <fragment
+        android:id="@+id/catalogFragment"
+        android:name="com.example.nammapustaka1.ui.catalog.CatalogFragment"
+        android:label="ಪುಸ್ತಕಗಳು" />
+
+    <fragment
+        android:id="@+id/myBooksFragment"
+        android:name="com.example.nammapustaka1.ui.mybooks.MyBooksFragment"
+        android:label="ವ್ಯವಹಾರ" />
+
+    <fragment
+        android:id="@+id/leaderboardFragment"
+        android:name="com.example.nammapustaka1.ui.leaderboard.LeaderboardFragment"
+        android:label="ಶ್ರೇಣಿ" />
+
+    <fragment
+        android:id="@+id/studentsFragment"
+        android:name="com.example.nammapustaka1.ui.students.StudentsFragment"
+        android:label="ವಿದ್ಯಾರ್ಥಿ" />
+
+</navigation>

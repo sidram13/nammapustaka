@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">ನಮ್ಮ ಪುಸ್ತಕ</string>
+    <string name="app_subtitle">ಶಾಲಾ ಗ್ರಂಥಾಲಯ ಸಹಾಯಕ</string>
+
+    <!-- Navigation -->
+    <string name="nav_catalog">ಪುಸ್ತಕಗಳು</string>
+    <string name="nav_transactions">ವ್ಯವಹಾರ</string>
+    <string name="nav_leaderboard">ಶ್ರೇಣಿ</string>
+    <string name="nav_students">ವಿದ್ಯಾರ್ಥಿ</string>
+
+    <!-- Books -->
+    <string name="book_catalog">ಪುಸ್ತಕ ಸಂಗ್ರಹ</string>
+    <string name="add_book">ಪುಸ್ತಕ ಸೇರಿಸಿ</string>
+    <string name="available">ಲಭ್ಯ</string>
+    <string name="unavailable">ಲಭ್ಯವಿಲ್ಲ</string>
+    <string name="issue_book">ಪುಸ್ತಕ ನೀಡಿ</string>
+    <string name="return_book">ಹಿಂತಿರುಗಿಸಿ</string>
+    <string name="overdue">ತಡವಾಗಿದೆ</string>
+
+    <!-- Leaderboard -->
+    <string name="leaderboard_title">ಓದಿನ ಶ್ರೇಣಿ ಪಟ್ಟಿ</string>
+    <string name="by_pages">ಪುಟ ಆಧಾರ</string>
+    <string name="by_books">ಪುಸ್ತಕ ಆಧಾರ</string>
+
+    <!-- Scan -->
+    <string name="scan_qr">QR ಕೋಡ್ ಸ್ಕ್ಯಾನ್</string>
+    <string name="scan_instruction">ಪುಸ್ತಕದ QR ಕೋಡ್ ಮೇಲೆ ಕ್ಯಾಮೆರಾ ಇಡಿ</string>
+
+    <!-- Camera -->
+    <string name="camera_permission_required">ಕ್ಯಾಮೆರಾ ಅನುಮತಿ ಅಗತ್ಯ</string>
+    <string name="capture_image">ಚಿತ್ರ ತೆಗೆ</string>
+
+    <!-- General -->
+    <string name="cancel">ರದ್ದು</string>
+    <string name="save">ಉಳಿಸಿ</string>
+    <string name="submit">ಸಲ್ಲಿಸಿ</string>
+    <string name="delete">ಅಳಿಸಿ</string>
+    <string name="edit">ಸಂಪಾದಿಸಿ</string>
+    <string name="ok">ಸರಿ</string>
+</resources>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/catalogFragment"
+        android:icon="@drawable/ic_library"
+        android:title="ಪುಸ್ತಕಗಳು" />
+
+    <item
+        android:id="@+id/myBooksFragment"
+        android:icon="@drawable/ic_borrow"
+        android:title="ವ್ಯವಹಾರ" />
+
+    <item
+        android:id="@+id/leaderboardFragment"
+        android:icon="@drawable/ic_leaderboard"
+        android:title="ಶ್ರೇಣಿ" />
+
+    <item
+        android:id="@+id/studentsFragment"
+        android:icon="@drawable/ic_students"
+        android:title="ವಿದ್ಯಾರ್ಥಿ" />
+
+</menu>

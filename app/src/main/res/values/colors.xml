@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Primary - deep green representing literacy & nature -->
+    <color name="colorPrimary">#1B5E20</color>
+    <color name="colorPrimaryDark">#003300</color>
+    <color name="colorPrimaryLight">#4C8C4A</color>
+    <color name="colorSecondary">#388E3C</color>
+    <color name="colorAccent">#FF6F00</color>
+    <color name="colorGemini">#4285F4</color>
+
+    <!-- Background -->
+    <color name="colorBackground">#F5F5F0</color>
+    <color name="colorSurface">#FFFFFF</color>
+
+    <!-- Text -->
+    <color name="colorPrimaryText">#212121</color>
+    <color name="colorSecondaryText">#757575</color>
+
+    <!-- Status colors -->
+    <color name="colorAvailable">#2E7D32</color>
+    <color name="colorUnavailable">#C62828</color>
+    <color name="colorOverdue">#FF0000</color>
+    <color name="colorIssued">#1565C0</color>
+    <color name="colorReturned">#2E7D32</color>
+
+    <!-- Leaderboard medals -->
+    <color name="gold">#FFD700</color>
+    <color name="silver">#C0C0C0</color>
+    <color name="bronze">#CD7F32</color>
+
+    <!-- Misc -->
+    <color name="white">#FFFFFF</color>
+    <color name="black">#000000</color>
+    <color name="transparent">#00000000</color>
+    <color name="dividerColor">#E0E0E0</color>
+</resources>
