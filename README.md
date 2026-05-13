@@ -30,7 +30,7 @@ Namma-Pustaka is a **"Smart Library Assistant"** for rural schools. It turns a s
 ### Book Catalog
 The home screen shows all books in a 2-column grid with cover images, availability badges, category chips for filtering, and a search bar.
 
-<img src="screenshots/01_book_catalog.png" width="270" alt="Book Catalog"/>
+<img src="screenshots/screenshots/01_book_catalog.png" width="270" alt="Book Catalog"/>
 
 ---
 
@@ -51,7 +51,7 @@ Shows cover, author, category, page count, QR code, star rating, and a Gemini-ge
 ### Write a Review
 Students can select their name from a dropdown, give a star rating, and write a one-line review.
 
-<img src="screenshots/03_write_review.png" width="270" alt="Write Review"/>
+<img src="screenshots/screenshots/03_write_review.png" width="270" alt="Write Review"/>
 
 ---
 
